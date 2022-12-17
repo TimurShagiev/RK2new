@@ -1,0 +1,27 @@
+{
+    "Banana": {
+        "Description" : "It's long and tasty.",
+        "Price" : 10
+    },
+    "Beer": {
+        "Description" : "It's a yellow drink. Don't confuse with kvas.",
+        "Price" : 50
+    },
+    "Milk": {
+        "Description" : "Cow liquid.",
+        "Price" : 35
+    },
+    "Dark chocolate": {
+        "Description" : "Cacao in a solid form. Not very tasty.",
+        "Price" : 6
+    },
+    "Russia": {
+        "Description": "Has russian people in it. AVOID AT ALL COSTS.",
+        "Price": 0
+    },
+    "Doom": {
+    "Description": "◄Cool▲game►",
+        "Price": 666
+    }
+
+}
